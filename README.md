@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Web RTC, Machine Learning, DSA, NextJs**
 
-- 👨‍💻 All of my projects are available at [arindamdev.netlify.app](arindamdev.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](arindamdev.netlify.app)
 
-- 📝 I regularly write articles on [https://arindamlearning.hashnode.dev/](https://arindamlearning.hashnode.dev/)
+- 📝 I regularly write articles on [My Blogs](https://arindamlearning.hashnode.dev/)
 
 - 💬 Ask me about **React, MongoDB, ExpressJs, NodeJs, Web Sockets**
 
