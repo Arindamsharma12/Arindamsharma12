@@ -14,6 +14,7 @@
 - 📫 How to reach me **[Linkedin Badge](https://www.linkedin.com/in/arindam-sharma30)**
 
 - ⚡ Fun fact **Love for Chai!😋**
+  <br></br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 <hr>
 <div align="center">
