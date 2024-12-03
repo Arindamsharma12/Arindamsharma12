@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, MongoDB, ExpressJs, NodeJs, Web Sockets**
 
-- 📫 How to reach me **arindamsharma@gmail.com**
+- 📫 How to reach me **[arindamsharma@gmail.com](https://linkedin.com/in/https://www.linkedin.com/in/arindam-sharma30)**
 
 - ⚡ Fun fact **Love for Chai!😋**
 
