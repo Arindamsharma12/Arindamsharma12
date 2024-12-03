@@ -15,6 +15,17 @@
 
 - ⚡ Fun fact **Love for Chai!😋**
   <br></br>
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/arindam-sharma30/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/arindam_sharma30/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Arindam_Sharma_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 <hr>
 <div align="center">
