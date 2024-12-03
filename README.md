@@ -17,7 +17,7 @@
 
 <hr>
 <div align="center">
-  <img src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif" width="450" height="300"/>
+  <img src="[https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)" width="450" height="300"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
