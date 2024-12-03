@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arindam Sharma</h1>
 <h3 align="center">The Art of Turning Vision into Reality</h3>
 <h3 align="left">🧑‍💻 About Me:</h3>
+
 - 🔭 I’m currently working on **Web socket Applications**
 
 - 🌱 I’m currently learning **Web RTC, Machine Learning, DSA, NextJs**
