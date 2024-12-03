@@ -34,7 +34,7 @@
 
 - :zap: In my free time, I solve problems on leetcode and codeforces.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sharmapranay38-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-sharma-b963a91b1/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-arindam-sharma30-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arindam-sharma30/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -45,6 +45,6 @@
 
   
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmapranay38&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arindamsharma1238&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
-  [![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmapranay38&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Arindam's GitHub stats][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arindamsharma12)](https://github.com/Arindamsharma12/github-readme-stats)
