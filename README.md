@@ -36,7 +36,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="450" height="300"/>
 </div>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arindam-sharma30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arindam-sharma30" height="30" width="40" /></a>
 <a href="https://arindamlearning.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://arindamlearning.hashnode.dev/" height="30" width="40" /></a>
