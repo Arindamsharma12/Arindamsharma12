@@ -19,6 +19,9 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
   <hr>
   <div id="badges" align="center">
+  <a href="https://hashnode.com/@arindamsharma30">
+    <img src="https://img.shields.io/badge/Hashnode-black?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/arindam-sharma30/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
